@@ -1,5 +1,5 @@
 {
-    "name": "behat/behat",
+    "name": "marinusjvv/behat",
     "description": "Scenario-oriented BDD framework for PHP",
     "keywords": ["BDD", "ScenarioBDD", "StoryBDD", "Examples", "Scrum", "Agile", "User story", "Symfony", "business", "development", "testing", "documentation"],
     "homepage": "http://behat.org/",
